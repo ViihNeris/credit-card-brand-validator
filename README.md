@@ -2,11 +2,11 @@
 
 Credit Card Brand Validator with GitHub Copilot.
 
-<center>
+<h1 align="center">
 <img src="./src/images/githubCopilot.png" alt="Image" width="100"/>
 
 _**DIO Challenge**_
-</center>
+</h1>
 
 ## Goal
 Inputar um número de cartão de crédito e validar qual a bandeira daquele cartão.
@@ -57,9 +57,9 @@ console.log(getCardBrand(cardNumber)); // Output: American Express
 - **Discover**: Começa com 6011, 65 ou com a faixa de 644 a 649
 - **Hipercard**: Começa com 6062
 
-<center>
+<h1 align="center">
 <img src="./src/images/base.png" alt="Image" width="600"/>
-</center>
+</h1>
 
 ## Como Executar
 
